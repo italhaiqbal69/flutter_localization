@@ -1,0 +1,11 @@
+{
+ "helloWorld":"Hello World!",
+ "@hello world":{
+   "description":"programmer greetings"
+ },
+  "talhaIqbal":"I am Talha",
+  "@talhaIqbal":{
+    "description":"person name"
+  },
+  "welcome":"Welcome Back!"
+}
